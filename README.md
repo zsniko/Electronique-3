@@ -2,4 +2,4 @@
 
 LU3EE100 - Electronique 3 Systèmes numériques et processeurs embarqués
 
-Slides de cours, corrigé de TD, etc.
+Slides de cours, corrigés des TDs, etc.
