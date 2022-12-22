@@ -1,3 +1,5 @@
-# ELEC70078 - Digital Image Processing - Imperial College London
+# LU3EE100 - Licence EEA - Sorbonne Université
 
-Lecture slides, Problem sets, some matlab code, etc.
+LU3EE100 - Electronique 3 - Systèmes numériques et processeurs embarqués
+
+Slides de cours, corrigés des TDs, code assembleur, etc.
